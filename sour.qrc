@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/new/prefix1">
+        <file>sharpen.PNG</file>
+    </qresource>
+</RCC>

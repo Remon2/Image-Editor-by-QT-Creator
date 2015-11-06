@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>color.PNG</file>
+        <file>fit2.PNG</file>
+        <file>resize2.PNG</file>
+        <file>tite.PNG</file>
+        <file>reportd.PNG</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>nagate.PNG</file>
+        <file>edge2f.PNG</file>
+    </qresource>
+</RCC>

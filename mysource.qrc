@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>temp.png</file>
+        <file>cropf.PNG</file>
+        <file>ditherf.PNG</file>
+        <file>edge2f.PNG</file>
+        <file>exit.PNG</file>
+        <file>gaussf.PNG</file>
+        <file>grayf.PNG</file>
+        <file>open2f.PNG</file>
+        <file>openf.PNG</file>
+        <file>redo10.PNG</file>
+        <file>resetf.PNG</file>
+        <file>rotatef.PNG</file>
+        <file>savef.PNG</file>
+        <file>start2.jpg</file>
+        <file>start2b.jpg</file>
+        <file>start3.jpg</file>
+        <file>start4.jpg</file>
+        <file>startImage.jpg</file>
+        <file>undo10.PNG</file>
+        <file>zoom1f.PNG</file>
+        <file>zoom2f.PNG</file>
+        <file>zoom3f.PNG</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
